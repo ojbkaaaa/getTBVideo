@@ -1,0 +1,38 @@
+{
+    'content': {
+        'title': '标题',
+        'imageUrl' : 'https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1352773228,3683503823&fm=15&gp=0.jpg', 
+        'content': '内容',
+        'like': '喜欢人数', 
+        'messageNum': '留言人数',
+        'collect': '收藏人数',
+        'pushTime': '发布时间'
+    },
+    'author':{
+        'name': '作者',
+        'imageUrl': 'http://xiaohongshu.discovery.item.5e9683d2000000000100a29b.singyun.cn:7060/show/2020042012551021.png',
+        'desc': '零基础法盲来说确实是在无限的挑战我的脑细胞?上级下级部门机构编制申请决定批准审批备案………怎么这么多好混乱?',
+        'documentNum': '笔记数量',
+        'fans': '粉丝数',
+        'totleCollect': '获赞与收藏'
+    },
+    'comment': [
+        {
+            'commentUser': '评论者',
+            'imageUrl': 'https://dss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=3256100974,305075936&fm=26&gp=0.jpg',
+            'commentTime': '评论的时间',
+            'commentContent': '评论内容',
+            'authorComment': '作者回复',
+            'likeNum': '点赞数量'
+        },
+       
+    ],
+    'lineNode':[
+        {
+            'nodeTitle': 'data的文章链接',
+            'nodeURL': 'http://xiaohongshu.discovery.item.5e9683d2000000000100a29b.singyun.cn:7060/data',
+            'imageUrl': 'http://xiaohongshu.discovery.item.5e9683d2000000000100a29b.singyun.cn:7060/show/2020042012574029.jpg',
+            'likeNum': '点赞数量'
+        }
+    ]
+}
